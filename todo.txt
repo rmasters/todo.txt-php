@@ -1,0 +1,11 @@
+Sort a TodoList by priority
+Filter a TodoList by context
+Filter a TodoList by project
+Filter a TodoList by any term
+Write @tests for TodoList
+Write a loader for Dropbox
+Find which parts of the two loaders can be merged
+Write @tests for loader classes
+Clean up the Task class - move parsing elsewhere?
+Better names for exceptions
+Plugins for metadata parsing on Task
